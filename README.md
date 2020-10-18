@@ -1,4 +1,4 @@
-# MSVBA-link-checker
+# Excel Vba Link Checker
 
 Purpose:
 
