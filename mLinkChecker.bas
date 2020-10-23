@@ -1,4 +1,4 @@
-Attribute VB_Name = "mNewLinkChecker"
+Attribute VB_Name = "mLinkChecker"
 Option Explicit
 
 Public Sub LinkChecker()
